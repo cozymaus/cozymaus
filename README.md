@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Liz!
+### Hi there! 👋 I'm Liz, a front-end web developer and cozy mouse.
 
 - 🔭 I’m currently working on [a secret project](https://github.com/cozymaus/news) and [my dragon database](https://github.com/cozymaus/dragon-database)!
 - 🏘️ My notable projects are on [my portfolio](https://cozymaus.com).  
