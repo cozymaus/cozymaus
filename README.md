@@ -6,4 +6,4 @@
 <br>
 🌱 I’m currently learning German, Polish, French, and [some other languages](http://duolingo.com/cozymaus).
 <br>
-💬 Get in touch via [twitter](https://twitter.com/cozymaus) or [email](mailto:liz@cozymaus.com)!
+💬 Get in touch via [email](mailto:liz@cozymaus.com)!
