@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Liz, a front-end web developer and cozy mouse.
 
-🔭 I’m currently working on [my dragon database](https://github.com/cozymaus/dragon-database)!
+🔭 I’m currently working on [my database of animal games](https://github.com/cozymaus/agdb)!
 <br>
 🏘️ My notable projects are on [my portfolio](https://cozymaus.com).
 <br>
