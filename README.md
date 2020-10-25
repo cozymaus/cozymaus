@@ -4,6 +4,6 @@
 <br>
 🏘️ My notable projects are on [my portfolio](https://cozymaus.com).
 <br>
-🌱 I’m currently learning German, Polish, French, and [some other languages](http://duolingo.com/cozymaus).
+🌱 I’m currently learning [German and Polish](http://duolingo.com/cozymaus) (slowly).
 <br>
 💬 Get in touch via [email](mailto:liz@cozymaus.com)!
