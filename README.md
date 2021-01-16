@@ -2,7 +2,7 @@
 
 🔭 I’m currently working full-time as a web producer for The Lynx Group. Currently trying to come up with a side project.
 <br>
-🏘️ My notable projects are on my portfolio at lizlorena.com or lizberberena.com.
+🏘️ My notable projects are on my portfolio at [lizlorena.com](https://lizlorena.com) or [lizberberena.com](http://lizberberena.com).
 <br>
 🌱 I’m currently learning German and Polish (slowly).
 <br>
