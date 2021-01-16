@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Liz, a front-end web developer and casual artist.
 
-❤️ I’m currently working full-time as a web producer for The Lynx Group. Currently trying to come up with a side project.
+❤️ I’m currently working full-time as a web producer for The Lynx Group.
 <br>
 🐭 My notable projects are on my portfolio at [lizlorena.com](https://lizlorena.com) or [lizberberena.com](http://lizberberena.com).
 <br>
