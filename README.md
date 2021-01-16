@@ -4,6 +4,8 @@
 <br>
 🐭 My notable projects are on my portfolio at [lizlorena.com](https://lizlorena.com) or [lizberberena.com](http://lizberberena.com).
 <br>
+🖍️ My art can be seen [here](https://lizlorena.com/art).
+<br>
 🌱 I’m currently learning German and Polish (slowly).
 <br>
 💬 Get in touch via [email](mailto:hello@lizlorena.com)!
